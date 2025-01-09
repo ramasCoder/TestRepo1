@@ -1,0 +1,5 @@
+Please enter an action to execute.
+Options are:
+
+SPRING_ANNOTATION_BASED_VEHICLE_NUMBER_GENERATOR : For running Spring annotation based Vehicle Number Generation.
+SPRING_XML_BASED_VEHICLE_NUMBER_GENERATOR : For running Spring XML based Vehicle Number Generation.
